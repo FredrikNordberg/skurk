@@ -11,7 +11,7 @@ const roster = [
     role: "Damage Dealer Deluxe",
     country: "Grekland/Sverige",
     image: "/roster/ZeroX.png",
-    skills: ["Damage Giver", "Granade Switcher", "OKEEEEY"],
+    skills: ["Damage Giver", "Granade Switcher", "AWP Missing King"],
   },
   {
     name: "Simba",
@@ -25,7 +25,7 @@ const roster = [
     role: "Tech Issue Enjoyer",
     country: "Sverige",
     image: "/roster/sick.png",
-    skills: ["Sudden PC Restart", "Drops AWP then picks up Galil", "Planting As CT"],
+    skills: ["Sudden PC Restart", "Shooting Shadows", "Planting As CT"],
   },
   {
     name: "Vidoqe",
@@ -39,7 +39,7 @@ const roster = [
     role: "Team Mascot / Meme God",
     country: "Polen/Lettland/Estland/Sverige",
     image: "/roster/razz.png",
-    skills: ["Flash Teammates", "Rush B (sometimes)", "Dies first, talks most"],
+    skills: ["Flash Teammates", "Rush B (sometimes)", "Burping Master"],
   },
 ]
 
