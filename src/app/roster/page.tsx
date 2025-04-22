@@ -39,7 +39,7 @@ const roster = [
     role: "Team Mascot / Meme God",
     country: "Polen/Lettland/Estland/Sverige",
     image: "/roster/razz.png",
-    skills: ["Flash Teammates", "Rush B (sometimes)", "Burping Master"],
+    skills: ["Flash Teammates", "Alcoholic", "Burping Master"],
   },
 ]
 
